@@ -1,1 +1,0 @@
-This is just me trying out some C# functions feel free to watch or use the code for yourself
